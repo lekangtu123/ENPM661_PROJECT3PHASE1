@@ -14,7 +14,7 @@
 
 ## How to use it
 
-Open the terminal and type: `python3 proj3_tu_Li_Ajayi.py`
+Open the terminal and type: `python3 a_star_tu_Li_Ajayi.py`
 Then click ENTER for entering default value (if you do not want to change any value).
 The next step is set the clearance, start and goal point, which all can be changed by yourself. 
 
