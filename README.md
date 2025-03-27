@@ -21,3 +21,5 @@ The next step is set the clearance, start and goal point, which all can be chang
 Tips: The start and goal point coordinates are entered as follows 168,168,0, parentheses are not required.
 
 Announcement:The project requires clearance for 5mm, but I chose 25mm for a clearer view of the clearance. The same operation is done with the size of the threshold, robot_radius and map. Just for clearer veiw! Not disregarding the project requirements.
+
+You can modify the obstacle map by changing the dimensions, adding or removing obstacles, or adjusting their properties (shape, color, thickness, transparency).
